@@ -1,0 +1,7 @@
+CSS Assignments
+Let's beign with git 
+& Github 
+Copying all the css assignments into the masters 
+branch 
+
+10th command, making minor changes into the css assignments belonging files 
